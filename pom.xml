@@ -26,7 +26,7 @@
       <artifactId>net.dv8tion</artifactId>
       <version>1.0</version>
       <scope>system</scope>
-    <systemPath>..\..\..\Libraries\JDA-withDependencies-2.2.1_357.jar</systemPath>
+    <systemPath>"D:\Coded Programs\Eclipse Neon\Libraries\JDA-withDependencies-2.2.1_357.jar"</systemPath>
 </dependency>
   </dependencies>
 </project>
